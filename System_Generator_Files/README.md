@@ -11,7 +11,7 @@ The "Design_Files" folder contains all the System Generator and Vivado files tha
 
 The "Board_Files" folder contains all the Jupyter notebooks and .hws and .bit files required to run the project. Open this folder and upload the folder entitled "Group_E_design_project" to the PYNQ-Z2.
 
-Once that "Group_E_design_project" folder has been uploaded to the board, each subfolder, e.g. "Lines_8k", contains the Jupyter notebook, .hws and .bit files to run that design. Choose a design to run, open its subfolder, and run the Jupyter notebook.
+Once that "Group_E_design_project" folder has been uploaded to the board, each subfolder, e.g. "Lines_8k", contains the Jupyter notebook, .hws and .bit files required to run that design. Choose a design to run, open its subfolder, and run the Jupyter notebook.
 
 
 This information is also available in the GitHub: https://github.com/AndrewFerg05/PYNQ_Mathematically_Generated_Images
