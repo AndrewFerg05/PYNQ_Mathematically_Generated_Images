@@ -13,7 +13,7 @@ The System_Generator_Files folder contains the .slx files to generate the IP for
 The output folder contains the intended output of each design.
 
 The remaining folders each contain a Jupyter notebook and the corresponding .hws and .bit files for each design.
-The contents of these folder are required to be upload to the board.
+The contents of these folders are required to be upload to the board.
 
 This can be done by running the following in a terminal window on the baord
 
@@ -21,6 +21,6 @@ sudo pip3 install git+https://github.com/AndrewFerg05/PYNQ_Mathematically_Genera
 
 or alternatively drag the folder of choice manually onto the board.
 
-Simply chose which design you wish to run, upload that folder to the board, and run the Jupyter notebook
+Simply choose which design you wish to run, upload that folder to the board, and run the Jupyter notebook
 
  
