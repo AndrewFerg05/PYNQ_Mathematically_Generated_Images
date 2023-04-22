@@ -8,7 +8,7 @@ This can be found at https://blogs.scientificamerican.com/guest-blog/making-math
 
 This project is targeted for the PYNQ-Z2 board - information on how to set this up can be found at https://pynq.readthedocs.io/en/latest/getting_started.html
 
-The System_Generator_Files folder contains the .slx files to generate the IP for each design.
+The System_Generator_Files folder contains the .slx files to generate the IP for each design - if you wish to do this
 
 The output folder contains the intended output of each design.
 
