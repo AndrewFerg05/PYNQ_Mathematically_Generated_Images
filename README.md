@@ -15,11 +15,7 @@ The output folder contains the intended output of each design.
 The remaining folders each contain a Jupyter notebook and the corresponding .hws and .bit files for each design.
 The contents of these folders are required to be upload to the board.
 
-This can be done by running the following in a terminal window on the baord
-
-sudo pip3 install git+https://github.com/AndrewFerg05/PYNQ_Mathematically_Generated_Images.git
-
-or alternatively drag the folder of choice manually onto the board.
+This can be done by dragging the folder of choice manually onto the board, or uploading through the Jupyer notebook at the boards IP.
 
 Simply choose which design you wish to run, upload that folder to the board, and run the Jupyter notebook
 
