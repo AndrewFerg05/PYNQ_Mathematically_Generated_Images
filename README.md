@@ -12,7 +12,7 @@ The System_Generator_Files folder contains the .slx files to generate the IP for
 
 The output folder contains the intended output of each design.
 
-The remaining folders each contain a Jupyter notebook and the corresponding .hws and .bit files for each design.
+The remaining folders each contain a Jupyter notebook and the corresponding .hwh and .bit files for each design.
 The contents of these folders are required to be upload to the board.
 
 This can be done by dragging the folder of choice manually onto the board, or uploading through the Jupyer notebook at the boards IP.
